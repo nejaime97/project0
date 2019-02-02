@@ -2,6 +2,7 @@ public with sharing class testClass {
     public testClass() {
         //testClass
         //Project 0 – Custom Banking Application
+        /*
 We need to track customer accounts, see individual transactions, see any related financial details such as loan applications they have made to the bank and if these were approved or denied. Accounts should come in single and joint account types, and should require one or two related customers accordingly.
 We should have a profile set up for the bank user, and security should be set up for the entire org, including your custom objects. 
 In addition to the above you should have an Apex class which contains methods for the following:
@@ -119,6 +120,5 @@ public static void closePastDueOpportunities( ) {
 }
  
 Finally you should prepare a 5 minute presentation on your solution to the banking app, including an overview, erd, and demo.
-
     }
 }
