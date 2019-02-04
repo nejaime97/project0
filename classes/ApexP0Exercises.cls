@@ -4,7 +4,7 @@ public with sharing class ApexP0Exercises {
             Integer a = 0;
             Integer b = 1;
             Integer c;
-            if (n += 0)
+            if (n == 0)
             {
                 return a;
             }
